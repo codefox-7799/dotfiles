@@ -14,3 +14,6 @@ brew install python3
 
 # Web Browser
 brew install caskroom/cask/google-chrome
+
+# Launcher
+brew install caskroom/cask/alfred
