@@ -17,3 +17,6 @@ brew install caskroom/cask/google-chrome
 
 # Launcher
 brew install caskroom/cask/alfred
+
+# Window management
+brew install caskroom/cask/slate
