@@ -10,6 +10,9 @@ brew install caskroom/cask/pycharm-ce
 # Terminal
 brew install caskroom/cask/alacritty
 
+# Filer
+brew install tree
+
 # Pytnon
 brew install python3
 
