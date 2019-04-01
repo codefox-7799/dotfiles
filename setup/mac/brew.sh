@@ -16,6 +16,9 @@ brew install zsh
 # Filer
 brew install tree
 
+# Fuzzy finder
+brew install fzf
+
 # Pytnon
 brew install python3
 
