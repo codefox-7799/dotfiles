@@ -33,3 +33,6 @@ brew install caskroom/cask/slate
 
 # keyboard
 brew install caskroom/cask/karabiner-elements
+
+# Font
+brew cask install caskroom/fonts/font-hack-nerd-font
