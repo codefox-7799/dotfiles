@@ -10,6 +10,9 @@ brew install caskroom/cask/pycharm-ce
 # Terminal
 brew install caskroom/cask/alacritty
 
+# Shell
+brew install zsh
+
 # Filer
 brew install tree
 
