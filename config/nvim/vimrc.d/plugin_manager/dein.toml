@@ -6,3 +6,7 @@ repo = 'shougo/dein.vim'
 [[plugins]]
 repo = 'Shougo/deoplete.nvim'
 on_i = 1
+
+# Colorscheme
+[[plugins]]
+repo = 'sickill/vim-monokai'
