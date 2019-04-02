@@ -10,3 +10,7 @@ on_i = 1
 # Colorscheme
 [[plugins]]
 repo = 'sickill/vim-monokai'
+
+# Git
+[[plugins]]
+repo = 'tpope/vim-fugitive'
