@@ -13,6 +13,9 @@ brew install caskroom/cask/alacritty
 # Shell
 brew install zsh
 
+# Grep
+brew install ag
+
 # Filer
 brew install tree
 
