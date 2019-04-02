@@ -1,2 +1,5 @@
 # Karabiner-elements
 /config/karabiner/automatic_backups/
+
+# Venv
+/.venv/
