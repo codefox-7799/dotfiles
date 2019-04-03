@@ -10,6 +10,7 @@ brew install caskroom/cask/pycharm-ce
 # Terminal
 brew install caskroom/cask/alacritty
 brew install caskroom/cask/iterm2
+brew install tmux
 
 # Shell
 brew install zsh
