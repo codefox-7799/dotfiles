@@ -3,3 +3,8 @@
 
 # Venv
 /.venv/
+
+# Coc
+/config/coc/
+/config/configstore/
+/config/yarn/
