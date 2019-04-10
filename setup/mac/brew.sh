@@ -27,6 +27,10 @@ brew install fzf
 # Pytnon
 brew install python3
 
+# Javascript
+brew install node
+brew install yarn
+
 # Container
 brew install caskroom/cask/docker
 
