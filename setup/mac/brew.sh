@@ -36,6 +36,7 @@ brew install caskroom/cask/docker
 
 # Web Browser
 brew install caskroom/cask/google-chrome
+brew install caskroom/cask/firefox
 
 # Launcher
 brew install caskroom/cask/alfred
