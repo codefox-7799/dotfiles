@@ -34,6 +34,10 @@ brew install yarn
 # Container
 brew install caskroom/cask/docker
 
+# Virtualization
+brew install caskroom/cask/virtualbox
+brew install caskroom/cask/vagrant
+
 # Web Browser
 brew install caskroom/cask/google-chrome
 brew install caskroom/cask/firefox
