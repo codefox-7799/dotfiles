@@ -29,3 +29,7 @@ repo = 'tpope/vim-fugitive'
 
 [[plugins]]
 repo = 'airblade/vim-gitgutter'
+
+# Terminal
+[[plugins]]
+repo = 'kassio/neoterm'
