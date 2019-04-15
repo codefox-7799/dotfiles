@@ -11,6 +11,10 @@ on_i = 1
 repo = 'neoclide/coc.nvim'
 build = 'coc#util#install()'
 
+# Interface
+[[plugins]]
+repo = 'Shougo/denite.nvim'
+
 # Colorscheme
 [[plugins]]
 repo = 'sickill/vim-monokai'
