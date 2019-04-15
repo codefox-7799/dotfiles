@@ -7,9 +7,9 @@ repo = 'shougo/dein.vim'
 repo = 'Shougo/deoplete.nvim'
 on_i = 1
 
-[[plugins]]
-repo = 'neoclide/coc.nvim'
-build = 'coc#util#install()'
+# [[plugins]]
+# repo = 'neoclide/coc.nvim'
+# build = 'coc#util#install()'
 
 # Interface
 [[plugins]]
