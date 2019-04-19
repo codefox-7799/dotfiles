@@ -14,6 +14,7 @@ brew install tmux
 
 # Shell
 brew install zsh
+brew install direnv
 
 # Grep
 brew install ag

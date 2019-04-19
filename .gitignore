@@ -4,6 +4,9 @@
 # Venv
 /.venv/
 
+# Direnv
+/config/direnv
+
 # Coc
 /config/coc/
 /config/configstore/
