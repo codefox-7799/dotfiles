@@ -42,6 +42,9 @@ brew install caskroom/cask/docker
 brew install caskroom/cask/virtualbox
 brew install caskroom/cask/vagrant
 
+# Continuous integration
+brew install circleci
+
 # Web Browser
 brew install caskroom/cask/google-chrome
 brew install caskroom/cask/firefox
