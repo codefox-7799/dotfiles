@@ -28,6 +28,9 @@ brew install fzf
 # Pytnon
 brew install python3
 
+# Ruby
+brew install ruby
+
 # Javascript
 brew install node
 brew install yarn
